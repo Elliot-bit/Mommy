@@ -1,1 +1,1 @@
-~#-download logo.ico~#
+~#-delete logo.ico~#
