@@ -1,1 +1,1 @@
-~#-move SysAnls.exe D:\PY_Proj\PC_Spy\Рабочие\Bug~#
+~#-folder~#
