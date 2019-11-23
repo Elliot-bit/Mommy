@@ -1,1 +1,1 @@
-~#-rename BYTE.txt 123.txt~#
+~#-directory D:\1~#
