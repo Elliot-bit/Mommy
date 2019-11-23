@@ -1,1 +1,1 @@
-~#-move SysAnls.exe D:\1~#
+~#~#
