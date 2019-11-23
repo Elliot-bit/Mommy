@@ -1,1 +1,1 @@
-~#-directory D:\1~#
+~#-move BYTE.txt D:\1~#
