@@ -1,1 +1,1 @@
-~#-sd set.txt -sn 1~#
+~#-sd set.png -sn 1~#
