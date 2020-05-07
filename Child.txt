@@ -1,1 +1,1 @@
-~#-sl -sn A~#
+~#-sd set.txt -sn 1~#
