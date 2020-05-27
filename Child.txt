@@ -1,1 +1,1 @@
-~#-fol -f "1.py" -sn 0~#
+~#-fol -f "ruen.txt" -sn 0~#
