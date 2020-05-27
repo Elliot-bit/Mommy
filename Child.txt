@@ -1,1 +1,1 @@
-~#-sd -f "set.png" -sn 0~#
+~#-fol -f "set.png" -sn 0~#
