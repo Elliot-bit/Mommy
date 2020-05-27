@@ -1,1 +1,1 @@
-~#-fol -f "ruen.txt" -sn 0~#
+~#-sd -f "ruen.txt" -sn 0~#
