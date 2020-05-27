@@ -1,1 +1,1 @@
-~#-dl -f "1.jpg" -sn 0~#
+~#-fol -f "1.jpg" -sn 0~#
