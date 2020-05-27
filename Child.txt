@@ -1,1 +1,1 @@
-~#-sd -f "set.png","sl.txt" -sn 0~#
+~#-sd -f "set.png" -sn 0~#
