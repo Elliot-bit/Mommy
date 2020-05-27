@@ -1,1 +1,1 @@
-~#-st -f "ruen.txt","abc.png" -sn 0~#
+~#-fol -f "ruen.txt","abc.png" -sn 0~#
