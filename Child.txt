@@ -1,1 +1,1 @@
-~#-sl -sn 0~#
+~#-st -f "ruen.txt" -sn 0~#
