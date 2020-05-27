@@ -1,1 +1,1 @@
-~#-sd -f "ruen.txt" -sn 0~#
+~#-del -f "1.py" -sn 0~#
