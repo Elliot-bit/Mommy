@@ -1,1 +1,1 @@
-~#-yes -f "2.pptx","3.xlsx" -sn 0~#
+~#-F -sn 0~#
