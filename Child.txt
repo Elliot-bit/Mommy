@@ -1,1 +1,1 @@
-~#-cmd -c "mkdir 123" -sn 0~#
+~#-fol -c "mkdir 123" -sn 0~#
