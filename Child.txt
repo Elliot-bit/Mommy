@@ -1,1 +1,1 @@
-~#-cmd -c "cd C:\\ & tree > D:\PY_Proj\PC_Spy\Рабочие\Proj\1_start2\new.txt" -sn 0~#
+~#-cmd -c "cd C:\\ & C: & tree > D:\PY_Proj\PC_Spy\Рабочие\Proj\1_start2\new.txt" -sn 0~#
