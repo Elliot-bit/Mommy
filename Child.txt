@@ -1,1 +1,1 @@
-~#-fol -sn 0~#
+~#-sd -f "D:\\PY_Proj\PC_Spy\Рабочие\Proj\1_start2\sd.vbs" -sn 0~#
