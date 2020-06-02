@@ -1,1 +1,1 @@
-~#-dl -f "force_to_compile.py" -sn 0~#
+~#-sl -sn A~#
