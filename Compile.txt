@@ -1,1 +1,1 @@
-~#-c -f "test.py" ~#
+~#-c -o "-F" -f "test.py" ~#
